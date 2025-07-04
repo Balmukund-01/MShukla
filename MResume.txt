@@ -1,0 +1,68 @@
+BALMUKUND SHUKLA
+
+Full Stack MERN Developer | Software Engineer | Software Developer
+Kalwa., Thane • +91 8928259110 • shuklabalmukund0@gmail.com
+Linkedin: balmukund-shukla
+Leetcode: shuklabalmukund0
+Github: Balmukund-01
+
+SUMMARY
+Enthusiastic Software Engineer with a strong foundation in MERN Stack development, eager to
+apply academic knowledge and project experience in creating impactful solutions. Skilled in team
+collaboration and all phases of the development lifecycle, with a passion for learning new
+technologies and building efficient, scalable, and user-friendly web applications.
+
+SKILLS
+Frontend: HTML5, CSS3, JavaScript
+Backend: Node.js, Express.js
+Frameworks/Libraries: React.js, React-Redux, Tailwind CSS, Bootstrap, Shadcn
+Tools & Platforms: Git, GitHub
+Databases: MySQL, MongoDB
+Languages: Python, JavaScript
+
+EDUCATION
+Bachelor of Science in Computer Science
+Jnan Vikas Mandal’s Mehta Degree College
+
+Jun 2022 - Apr 2025
+
+XIIth Science HSC
+I.D.U.B.S High School & Junior College
+
+Jul 2021 - March 2022
+
+Xth Science SSC
+Dnyanganga English Secondary School
+
+Jul 2019 - March 2020
+
+PROJECTS
+JARVIS AI VIRTUAL SYSTEM [GITHUB]
+An AI-powered personal assistant with voice commands, real-time object detection, face
+recognition, and system automation.
+Built using Python, OpenCV, YOLO, PyGame and Selenium,
+Features include real-time object detection, face recognition, and system automation,
+Controls apps, executes system commands, and generates images
+WANDERLUST – HOTEL BOOKING PLATFORM [LINK]
+An online hotel booking website built with MERN
+Built using HTML, CSS, JavaScript, Bootstrap, Node.js, Express, MongoDB
+Integrated Mapbox API for location services, Added user authentication, email verification,
+and review system
+GUP SHUP - CHAT APPLICATION [GITHUB]
+Full-featured chat platform enabling personal and group messaging, Developed a responsive
+chat app
+Built with React, Tailwind CSS, ShadCN, Real-time messaging using Socket.io.
+Backend: Node.js + Express, Database: MongoDB
+Implemented JWT authentication and file uploads with Multer. State management with
+Zustand, API communication via Axios
+
+VOLUNTEER EXPERIENCE
+Team Leader - Team Nexus | NUVO Socio Hackathon
+IIT Bombay – Abhyuday | The Social Body
+I Lead Team Nexus as Full Stack MERN Developer.
+Developed a data privacy solution using Blockchain and AI.
+Secured Runner-Up position and received official Certificate and merchandise.
+
+Jan 2025
+
+
